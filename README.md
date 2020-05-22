@@ -2,3 +2,4 @@
 
 ## Contributors
 - Charles Barringer
+- Brandon Bunch
