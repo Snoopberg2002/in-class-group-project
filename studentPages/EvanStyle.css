@@ -1,0 +1,15 @@
+body {
+  margin: 50px;
+}
+
+h2 {
+  border: 2px solid black;
+}
+
+#bio {
+  align-items: top;
+}
+
+footer {
+  align-content: center;
+}
