@@ -2,3 +2,4 @@
 
 ## Contributors
 - Joseph Jordan
+- Brandon Bunch
