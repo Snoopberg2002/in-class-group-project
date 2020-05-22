@@ -1,4 +1,5 @@
 # In-Class Group Project for Savvy Coders Apr. 2020 Cohort
 
 ## Contributors
--Evan LéNoir
+- Evan LéNoir
+- Brandon Bunch
