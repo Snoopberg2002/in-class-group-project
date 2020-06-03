@@ -1,6 +1,8 @@
 # In-Class Group Project for Savvy Coders Apr. 2020 Cohort
 
 ## Contributors
+- Brian Eisenbeis
+- Joe Spector
 - Charles Barringer
 - Jason Brandenburger
 - Justin White
@@ -10,3 +12,4 @@
 - Lillian Blair
 - Lauren Kye
 - Brandon Bunch
+
