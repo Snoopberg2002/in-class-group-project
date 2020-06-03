@@ -2,4 +2,7 @@
 
 ## Contributors
 - Jon Dove
+- Lillian Blair
+- Lauren Kye
 - Brandon Bunch
+
