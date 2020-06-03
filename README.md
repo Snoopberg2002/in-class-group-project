@@ -2,6 +2,7 @@
 
 ## Contributors
 - Brian Eisenbeis
+- Joseph Jordan
 - Evan LéNoir
 - Jon Dove
 - Lillian Blair
