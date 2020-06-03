@@ -2,6 +2,7 @@
 
 ## Contributors
 - Charles Barringer
+- Evan LéNoir
 - Jon Dove
 - Lillian Blair
 - Lauren Kye
