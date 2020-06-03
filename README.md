@@ -2,4 +2,6 @@
 
 ## Contributors
 - Jason Brandenburger
+- Lauren Kye
 - Brandon Bunch
+
