@@ -2,6 +2,7 @@
 
 ## Contributors
 - Charles Barringer
+- Jason Brandenburger
 - Justin White
 - Joseph Jordan
 - Evan LéNoir
