@@ -1,11 +1,9 @@
 # In-Class Group Project for Savvy Coders Apr. 2020 Cohort
 
 ## Contributors
-<<<<<<< HEAD
 - Joseph Jordan
-=======
+- Evan LéNoir
+- Jon Dove
 - Lillian Blair
 - Lauren Kye
->>>>>>> 0797174304b17aa606854aad9700947347b394d2
 - Brandon Bunch
-
