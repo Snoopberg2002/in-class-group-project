@@ -2,5 +2,7 @@
 
 ## Contributors
 - Justin White
+- Lillian Blair
+- Lauren Kye
 - Brandon Bunch
 
