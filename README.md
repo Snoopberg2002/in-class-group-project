@@ -12,5 +12,5 @@
 - Lillian Blair
 - Lauren Kye
 - Brandon Bunch
+- Joshua Deeke
 - Shawn Martinez
-
