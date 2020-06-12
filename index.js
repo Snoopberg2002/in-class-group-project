@@ -2,16 +2,14 @@
 import { Nav, Main } from "./Components";
 import * as state from "./store";
 
-const render = () => {
+const render = (st = state.Home) => {
   document.querySelector("#root").innerHTML = `
-  ${Header()}
-  ${Nav()}
-  ${Main()}
-  ${Footer()}
+  ${Nav(state.Links)}
+  ${Main(st)}
   `;
 }
 
-render();
+render(state.Home);
 
 
 document.querySelector(".fa-bars").addEventListener("click", () => {
