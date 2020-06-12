@@ -1,4 +1,4 @@
 export default {
   header: "Jonathan Dove",
-  view: "Jondove"
+  view: "JonDove"
 };

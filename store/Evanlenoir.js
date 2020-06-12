@@ -1,4 +1,4 @@
 export default {
   header: "Evan LéNoir",
-  view: "Evanlenoir"
+  view: "EvanLenoir"
 };
